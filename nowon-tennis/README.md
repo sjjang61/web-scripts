@@ -6,6 +6,7 @@
    - https://reservation.nowonsc.kr/sports/courtReserve_date?cate1=1&cate2=16
     
 2. F12 -> 콘솔창에 하단 코드를 copy & paste
+   - https://github.com/sjjang61/web-scripts/blob/main/nowon-tennis/reservation.js
 
 3. 우측 상단에서 날짜를 선택한후 예약 실행 
    - 직접 변경 가능 
